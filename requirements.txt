@@ -32,3 +32,6 @@ termcolor
 git+https://github.com/philippe-lemaire/pikmin
 git+https://github.com/Aymeric-B/my_project
 git+https://github.com/SergioPx/myfirstpy
+git+https://github.com/Torque690/holyPk
+git+https://github.com/myriamgenety/mlproject
+git+https://github.com/ouic/my_shared_project
