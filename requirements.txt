@@ -27,3 +27,8 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# buddies
+git+https://github.com/philippe-lemaire/pikmin
+git+https://github.com/Aymeric-B/my_project
+git+https://github.com/SergioPx/myfirstpy
